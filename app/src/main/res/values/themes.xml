@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Базовая тема приложения. Реальная палитра задаётся в Compose (ui/theme),
+         здесь только то, что нужно до первого кадра: фон окна и статус-бар. -->
+    <style name="Theme.PokeExplorer" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/poke_background</item>
+        <item name="android:statusBarColor">@color/poke_red</item>
+        <item name="android:navigationBarColor">@color/poke_surface</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+# Собрано вручную
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+/caches/
+/daemon/
+/native/
+/wrapper/
+/kotlin-profile/
+/.tmp/
+/android/

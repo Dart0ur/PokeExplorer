@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">PokeExplorer</string>
+
+    <!-- Общие -->
+    <string name="retry">Повторить</string>
+    <string name="refresh">Обновить</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error_unknown">Что-то пошло не так</string>
+    <string name="offline_hint">Проверьте подключение к интернету</string>
+
+    <!-- List -->
+    <string name="list_title">Покедекс</string>
+    <string name="search_hint">Поиск покемона по имени</string>
+    <string name="search_clear">Очистить поиск</string>
+    <string name="empty_title">Ничего не найдено</string>
+    <string name="empty_subtitle">Попробуйте изменить запрос — например, «char» или «pika»</string>
+    <string name="load_more">Загрузить ещё</string>
+    <string name="loading_more">Загружаем ещё…</string>
+    <string name="no_more">Это все покемоны</string>
+    <string name="open_favourites">Избранное</string>
+    <string name="loaded_count">Загружено: %1$d из %2$d</string>
+    <string name="results_count">Найдено: %1$d</string>
+
+    <!-- Detail -->
+    <string name="detail_title">О покемоне</string>
+    <string name="back">Назад</string>
+    <string name="add_to_favourites">В избранное</string>
+    <string name="remove_from_favourites">Убрать из избранного</string>
+    <string name="add_favourite">Добавить в избранное</string>
+    <string name="remove_favourite">Удалить из избранного</string>
+
+    <!-- Detail: секции -->
+    <string name="section_description">Описание</string>
+    <string name="section_stats">Базовые характеристики</string>
+    <string name="section_abilities">Способности</string>
+    <string name="section_info">Общее</string>
+
+    <string name="label_height">Рост</string>
+    <string name="label_weight">Вес</string>
+    <string name="label_base_exp">Базовый опыт</string>
+    <string name="label_habitat">Место обитания</string>
+    <string name="label_capture_rate">Шанс поимки</string>
+    <string name="label_genus">Вид</string>
+    <string name="hidden_ability">скрытая</string>
+    <string name="descr_unavailable">Описание для этого покемона недоступно</string>
+    <string name="descr_english_note">PokeAPI отдаёт описания только на английском</string>
+    <string name="legendary">Легендарный</string>
+    <string name="mythical">Мифический</string>
+
+    <!-- Favourites -->
+    <string name="favourites_title">Избранное</string>
+    <string name="favourites_empty_title">Избранное пусто</string>
+    <string name="favourites_empty_subtitle">Нажмите на сердечко в списке или на экране деталей, чтобы добавить покемона сюда. Избранное хранится в памяти и переживает поворот экрана.</string>
+    <string name="favourites_count">В избранном: %1$d</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="remove">Удалить</string>
+    <string name="go_to_list">К списку</string>
+
+    <string name="filter_label">Фильтр:</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_favourites">Избранное</string>
+</resources>

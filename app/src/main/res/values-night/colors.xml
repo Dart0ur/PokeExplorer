@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="poke_red">#FFEF5350</color>
+    <color name="poke_red_dark">#FF8E0000</color>
+    <color name="poke_background_dark">#FF101216</color>
+    <color name="poke_surface_dark">#FF181B21</color>
+    <color name="ic_launcher_background">#FFB71C1C</color>
+</resources>
